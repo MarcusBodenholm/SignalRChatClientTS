@@ -1,0 +1,19 @@
+.chatview {
+    overflow-y: scroll;
+    grid-area: chatpanel;
+    scrollbar-width:none;
+    height: 100%;
+    margin-left: 20px;
+    align-items: flex-start;
+    gap:5px;
+}
+.dmchatview {
+
+    overflow-y: scroll;
+    scrollbar-width:none;
+    height: 85%;
+    margin-left: 20px;
+    align-items: flex-start;
+    gap:5px;
+
+}
